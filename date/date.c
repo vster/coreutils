@@ -329,7 +329,7 @@ main (int argc, char **argv)
   const char *set_datestr = NULL;
   struct timespec when;
   bool set_date = false;
-  char const *format = NULL;l
+  char const *format = NULL;
   char *batch_file = NULL;
   char *reference = NULL;
   struct stat refstats;
